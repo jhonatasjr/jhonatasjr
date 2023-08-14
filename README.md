@@ -48,6 +48,6 @@
 <div>
     <a href="https://beacons.ai/jhonatasjr">
         <p><img height="180em" align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatasjr&show_icons=true&theme=dark&locale=en&layout=compact"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatasjr&show_icons=true&theme=dark&locale=pt-br&layout=compact"
                 alt="jhonatasjr" /></p>
 </div>
